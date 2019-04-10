@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # theme
-# theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 
 # Site settings
 title: Nottforestfc's Home page

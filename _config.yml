@@ -9,7 +9,7 @@
 theme: jekyll-theme-leap-day
 
 # Site settings
-title: Nottforestfc's Home page
+title: Nottforestfc's Home pages
 brief-intro: vom der Erde zum Himmel
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nottforestfc.github.io" # the base hostname & protocol for your site
@@ -34,20 +34,6 @@ description_footer: 从人间升上天国
 duoshuo_shortname: #nottforestfc
 disqus_shortname: #nottforestfc
 
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
-# baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-# google_analytics_id: UA-72449510-4 # google 分析追踪id
-
-# Build settings
-# markdown: kramdown
-
-# kramdown:
-#   input: GFM
-#   syntax_highlighter: rouge
-
 # port
 # port: 1234
 
@@ -62,4 +48,3 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
-

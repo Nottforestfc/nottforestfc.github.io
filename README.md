@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Nottforestfc
 
-You can use the [editor on GitHub](https://github.com/Nottforestfc/nottforestfc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_vom der Erde zum Himmel_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+Email: [weihaotian776@gmail.com](weihaotian776@gmail.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Bio
 
-```markdown
-Syntax highlighted code block
+-----
 
-# Header 1
-## Header 2
-### Header 3
+- 2015-     Universitas Buctanae, Physics, _B. Sc._
 
-- Bulleted
-- List
+- 2017      UC Berkeley, Physics, _Visiting Student_
 
-1. Numbered
-2. List
+- 2019-     PRUEC, _Research Associate_
 
-**Bold** and _Italic_ and `Code` text
+## Research
 
-[Link](url) and ![Image](src)
-```
+------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 2018     i-FET Switch and Simulated Synapse, _independent researcher_
 
-### Jekyll Themes
+    Advisor: Prof Yuanbo Zhang,
+    _State Key Laboratory of Surface Physics, Fudan University_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nottforestfc/nottforestfc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 2018      Nonlinear Optical Behaviors in Nodal-line Semimetals, _independent researcher_
 
-### Support or Contact
+    Advisor: Prof Gang Chen,
+    _Center for Field Theory and Particle Physics, Fudan University_
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 2019      Self-learning Effective Potential
+
+    Advisor: Prof Yang Qi,
+    _Department of Physics, Fudan University_
+
+- 2019      Oblique Dynamics and Quantum Magnets in Dipole-octupole Doublets
+
+    Advisor: Prof Gang Chen,
+    _Center of Theoretical and Computational Physics, The University of Hong Kong_
+

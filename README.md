@@ -10,9 +10,9 @@ Homepage: [https://nottforestfc.github.io]("https://nottforestfc.github.io")
 
 ### Bio
 
-- 2015-    &nbsp; Universitas Buctanae, Physics,&nbsp; _B. Sc._
-- 2017     &nbsp;&nbsp; UC Berkeley, Physics,&nbsp; _Visiting Student_
-- 2019-    &nbsp; PRUEC,&nbsp; _Research Associate_
+- **2015-**    &nbsp; Universitas Buctanae, Physics,&nbsp; _B. Sc._
+- **2017**     &nbsp; &nbsp; UC Berkeley, Physics,&nbsp; _Visiting Student_
+- **2019-**    &nbsp; PRUEC,&nbsp; _Research Associate_
 
 ### Research
 

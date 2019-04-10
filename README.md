@@ -6,7 +6,7 @@ _vom der Erde zum Himmel_
 
 Email: [weihaotian776@gmail.com](weihaotian776@gmail.com)
 
-Homepage: [https://nottforestfc.github.io]("https://nottforestfc.github.io")
+Homepage: [https://nottforestfc.github.io](https://nottforestfc.github.io)
 
 ### Bio
 

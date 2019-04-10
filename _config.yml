@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # theme
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 
 # Site settings
-title: Nottforestfc's Home pages
+title: Nottforestfc's Home page
 brief-intro: vom der Erde zum Himmel
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nottforestfc.github.io" # the base hostname & protocol for your site
